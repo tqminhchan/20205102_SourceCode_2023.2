@@ -1,0 +1,4 @@
+- Chú ý: cài đặt phiên bản node 14.17.2
+- cài đặt các gói node-module bằng lệnh "npm i" ở cả backend (thư mục ecomAPI) và frontend (eCommerce_Reactjs) 
+- cài đặt XAMPP, tạo 1 csdl tên là "ecom", sau đó import file "ecom.sql" vào csdl vừa tạo
+- chạy ứng dụng, sử dụng lệnh "npm start" ở cả front end và back end
